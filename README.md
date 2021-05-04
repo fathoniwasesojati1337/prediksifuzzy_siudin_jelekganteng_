@@ -6,10 +6,10 @@ Si Udin's predictions about handsome and ugly performances based on body weight 
 
 prediksi tinggi badan seseorang.
 
- linguistik tinggi badan : tinggi, medium, pendek
- linguistik berat badan:   berat,ringan
+ -linguistik tinggi badan : tinggi, medium, pendek
+ -linguistik berat badan:   berat,ringan, lumayan
 
- konsekuensi : bagus, jelek, lumayan
+ konsekuensi : bagus, jelek
 
  rules:
 
