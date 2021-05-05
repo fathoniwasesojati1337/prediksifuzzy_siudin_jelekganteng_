@@ -1,4 +1,4 @@
-# 1. prediksifuzzy_siudin_jelekganteng 🚀
+# 1. Prediksi Fuzzy Study Case 🚀
 Si Udin's predictions about handsome and ugly performances based on body weight and height using fuzzy algorithms
 
 
@@ -23,7 +23,7 @@ prediksi tinggi badan seseorang.
 
 -input : udin memiliki tinggi sekitar 130 cm dan berat 40cm
 
-# 2. membership function (keanggotaan) 🚀
+# 2. Membership function (keanggotaan) 🚀
 
 -> untuk keanggotaan pada tinggi badan dengan range dari 0 sampai 200
 
@@ -43,6 +43,6 @@ prediksi tinggi badan seseorang.
 ![alt text](https://github.com/fathoniwasesojati1337/prediksifuzzy_siudin_jelekganteng_/blob/main/image/ruleperformace.png)
 
 
-# hasil outputnya 🚀
+# 3. Hasil outputnya 🚀
 
 ![alt text](https://github.com/fathoniwasesojati1337/prediksifuzzy_siudin_jelekganteng_/blob/main/image/outputhasil.png)
