@@ -2,7 +2,7 @@
 Si Udin's predictions about handsome and ugly performances based on body weight and height using fuzzy algorithms
 
 
-                                   FUZZY LOGIC USING PYTHON PERFORMANCE SI UDIN JELEK BAGUS PREDIKSI
+                   FUZZY LOGIC USING PYTHON PERFORMANCE SI UDIN JELEK BAGUS PREDIKSI
 
 prediksi tinggi badan seseorang.
 
